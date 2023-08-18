@@ -4,3 +4,4 @@ This is a short tutorial how to deploy web application on AWS ECS using Fargate 
 
 * ⚙️ [Configure AWS CLI](docs/ConfigureCLI.md)
 * 🐳 [AWS ECR](docs/AWS_ECR.md)
+* 🚢 [AWS ECS](docs/AWS_ECS.md)
